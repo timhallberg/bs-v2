@@ -38,6 +38,7 @@ const List = () => {
     setContacts(newContacts);
   };
 
+  
   return (
     <div className="Table">
       <Table striped bordered hover>
