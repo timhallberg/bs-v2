@@ -1,0 +1,32 @@
+
+[
+    {   
+        "id": "1",
+        "name": "Tim Hallberg", 
+        "credit": "30",
+        "year":  "2002",
+        "shortDescription": "Pluggar till webbredaktör", 
+        "courseCode": "ABC123"
+ 
+    },
+    {
+        "id": "2",
+        "name": "Felicia", 
+        "credit": "29",
+        "year":  "2002",
+        "shortDescription": "Pluggar på folkhögskola", 
+        "courseCode": "123ABC"
+  
+    },
+    {
+        "id": "3",
+        "name": "Mikaela", 
+        "credit": "30",
+        "year":  "2022",
+        "shortDescription": "Pluggar på Borås högskola", 
+        "courseCode": "123ABC"
+        
+    }
+]
+
+
